@@ -264,7 +264,7 @@ header{
 .image-card:hover .overlay {
     bottom: 0;
 }
-/* .slider-container {
+.slider-container {
     display: flex;
     align-items: center;
     position: relative;
@@ -341,4 +341,4 @@ header{
 
 .nav-button:hover {
     background: rgba(0, 0, 0, 0.8);
-} 
+}
